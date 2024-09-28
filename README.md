@@ -10,7 +10,6 @@
 
 - 💬 Ask me about:  Golang, Software Architecture
 - 🔭 I’m currently working on projects with golang.
-- 🌱 I’m currently learning frontend technologies.
 - 🏫 Want to learn python, AI, ML, DL, NLP, ...
 - 👯 I’m looking to collaborate on golang projects.
 - 📫 How to reach me at:  **mehran.dabes@gmail.com**
